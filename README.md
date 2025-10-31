@@ -40,4 +40,6 @@ We aim to build a future where great ideas can be funded based on merit and comm
 - **Cross-Chain Support**: Enable campaigns across multiple blockchain networks
 - **Mobile Application**: Native iOS and Android apps for easier accessibility
 - **Fiat On-Ramps**: Integrate payment gateways for easy crypto conversion
-- 0x11463b5ea5f25ae378b3906af45fad0f4e26435b
+- 0x11463b5ea5f25ae378b3906af45fad0f4e26435b - contract address
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/336a04f3-dabe-4aa1-ad87-243aa20bca81" />
+
